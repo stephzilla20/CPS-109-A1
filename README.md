@@ -1,2 +1,4 @@
-# CPS-109-A1
- Assignment 1
+Calorie Tracker
+
+-caluclates required calories based on metrics 
+-track calories and macronutrients
